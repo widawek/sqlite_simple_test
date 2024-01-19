@@ -1,5 +1,4 @@
 from simple_sqlite_class import SqlPractice
-import sqlite3
 
 db_file = 'database.db'
 
